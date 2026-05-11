@@ -1,0 +1,43 @@
+name: Publish scheduled IG posts
+
+on:
+  schedule:
+    # Cron en UTC. Argentina = UTC-3. Run every hour on the hour.
+    - cron: '0 * * * *'
+  workflow_dispatch:  # Permite trigger manual desde la UI de GitHub
+    inputs:
+      force_window_min:
+        description: 'Force-publish window in minutes (default 60)'
+        default: '60'
+        required: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run publisher
+        env:
+          META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+          META_IG_BUSINESS_ID: ${{ secrets.META_IG_BUSINESS_ID }}
+          META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
+          WINDOW_MIN: ${{ inputs.force_window_min || '60' }}
+        run: python scripts/publish_due.py
+
+      - name: Commit log update
+        if: always()
+        run: |
+          if [ -f scripts/publish_log.jsonl ]; then
+            git config user.email "action@github.com"
+            git config user.name "Auto-Publisher"
+            git add scripts/publish_log.jsonl || true
+            git diff --cached --quiet || git commit -m "log: $(date -u +%FT%H:%MZ)"
+            git push || true
+          fi
