@@ -3,7 +3,7 @@
   "cdn_base": "https://leandroguzzo-wq.github.io/nomade-social-cdn",
   "page_id": "353322825404012",
   "ig_business_id": "17841428424322788",
-  "total_pieces": 21,
+  "total_pieces": 20,
   "pieces": [
     {
       "id": "semana-1-fantoche/01-lun-1100-IG-carrusel-fantoche",
@@ -12,7 +12,7 @@
       "type": "carousel",
       "scheduled_at": "2026-05-11T11:00:00-03:00",
       "scheduled_unix": 1778508000,
-      "copy": "Fantoche.\n12 años trabajando juntos. 6 Premios Mercurio. Mercurio de Oro 2023.\n\nLa marca de alfajores más querida de Argentina. Cada lanzamiento, un caso. Cada caso, un resultado.\n\n¿Cuánto tarda tu marca en convertir una idea en góndola?\n\nLink en bio para ver el case completo.\n\n#Nómade #Fantoche #Branding #Alfajores #ConsumoMasivo #CasoDeÉxito #MarketingArgentina\n",
+      "copy": "Fantoche.\n12 aÃ±os trabajando juntos. 6 Premios Mercurio. Mercurio de Oro 2023.\n\nLa marca de alfajores mÃ¡s querida de Argentina. Cada lanzamiento, un caso. Cada caso, un resultado.\n\nÂ¿CuÃ¡nto tarda tu marca en convertir una idea en gÃ³ndola?\n\nLink en bio para ver el case completo.\n\n#NÃ³made #Fantoche #Branding #Alfajores #ConsumoMasivo #CasoDeÃxito #MarketingArgentina\n",
       "media": [
         {
           "kind": "IMAGE",
@@ -54,50 +54,8 @@
       "type": "text",
       "scheduled_at": "2026-05-12T09:00:00-03:00",
       "scheduled_unix": 1778587200,
-      "copy": "La pregunta que le hago a cada CMO de consumo masivo: \"¿cuánto tarda tu organización en aprobar la última idea buena que tuvieron?\"\n\nLa cifra es el verdadero techo de tu marca.\n\nLlevo 12 años trabajando Fantoche. Lo que separa a las marcas que mueven el amperímetro de las que no, no es presupuesto: es velocidad de decisión.\n\nEn una categoría que se mueve por edición limitada, una idea que tarda 2 meses llega tarde.\n\nMercurio de Oro 2023. 6 Premios Mercurio con Fantoche.\n9 Premios Mercurio en total con Nómade. Cero rotación de cliente en una década.\n\n#ConsumoMasivo #MarketingArgentina #VelocidadDeDecision\n",
+      "copy": "La pregunta que le hago a cada CMO de consumo masivo: \"Â¿cuÃ¡nto tarda tu organizaciÃ³n en aprobar la Ãºltima idea buena que tuvieron?\"\n\nLa cifra es el verdadero techo de tu marca.\n\nLlevo 12 aÃ±os trabajando Fantoche. Lo que separa a las marcas que mueven el amperÃ­metro de las que no, no es presupuesto: es velocidad de decisiÃ³n.\n\nEn una categorÃ­a que se mueve por ediciÃ³n limitada, una idea que tarda 2 meses llega tarde.\n\nMercurio de Oro 2023. 6 Premios Mercurio con Fantoche.\n9 Premios Mercurio en total con NÃ³made. Cero rotaciÃ³n de cliente en una dÃ©cada.\n\n#ConsumoMasivo #MarketingArgentina #VelocidadDeDecision\n",
       "media": []
-    },
-    {
-      "id": "anuncio-web-2026-05-12/01-mar-1100-IG-carrusel-anuncio-web",
-      "cliente": "Nómade",
-      "channel": "IG",
-      "type": "carousel",
-      "scheduled_at": "2026-05-12T11:00:00-03:00",
-      "scheduled_unix": 1778594400,
-      "copy": "Estamos online.\n\nNueva web, mismo ADN. \n+10 años convirtiendo marcas en cultura. \nCases, IPs propias, branded y los 9 Mercurios \nque fuimos sumando con nuestros clientes.\n\nPasá, mirá, hablemos.\n\n→ nomadeagenciaintegral.com\n\nBuenos Aires + Madrid\n\n#nuevaweb #branding #publicidad #buenosaires #madrid\n",
-      "media": [
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/anuncio-web-2026-05-12/01-mar-1100-IG-carrusel-anuncio-web/slide-1-cover.jpg",
-          "filename": "slide-1-cover.jpg"
-        },
-        {
-          "kind": "VIDEO",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/anuncio-web-2026-05-12/01-mar-1100-IG-carrusel-anuncio-web/slide-2-video.mp4",
-          "filename": "slide-2-video.mp4"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/anuncio-web-2026-05-12/01-mar-1100-IG-carrusel-anuncio-web/slide-3-clientes.jpg",
-          "filename": "slide-3-clientes.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/anuncio-web-2026-05-12/01-mar-1100-IG-carrusel-anuncio-web/slide-4-metodo.jpg",
-          "filename": "slide-4-metodo.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/anuncio-web-2026-05-12/01-mar-1100-IG-carrusel-anuncio-web/slide-5-mercurios.jpg",
-          "filename": "slide-5-mercurios.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/anuncio-web-2026-05-12/01-mar-1100-IG-carrusel-anuncio-web/slide-6-cierre.jpg",
-          "filename": "slide-6-cierre.jpg"
-        }
-      ],
-      "media_count": 6
     },
     {
       "id": "semana-1-fantoche/03-mar-1300-IG-foto-fantoche-mega-poder.jpg",
@@ -122,7 +80,7 @@
       "type": "carousel",
       "scheduled_at": "2026-05-13T10:00:00-03:00",
       "scheduled_unix": 1778677200,
-      "copy": "Nómade × Fantoche — 12 años.\n\nUn cliente. Seis premios Mercurio con Fantoche. Una década construyendo una de las marcas más queribles de Argentina.\n\nLo que aprendimos: la coherencia no se logra con campañas, se logra con sistema.\n\nVer el case completo →\n\n#AgenciaIntegral #ConsumoMasivo #Branding #Fantoche\n",
+      "copy": "NÃ³made Ã Fantoche â 12 aÃ±os.\n\nUn cliente. Seis premios Mercurio con Fantoche. Una dÃ©cada construyendo una de las marcas mÃ¡s queribles de Argentina.\n\nLo que aprendimos: la coherencia no se logra con campaÃ±as, se logra con sistema.\n\nVer el case completo â\n\n#AgenciaIntegral #ConsumoMasivo #Branding #Fantoche\n",
       "media": [
         {
           "kind": "IMAGE",
@@ -164,7 +122,7 @@
       "type": "photo",
       "scheduled_at": "2026-05-14T17:00:00-03:00",
       "scheduled_unix": 1778788800,
-      "copy": "12 años. 6 Premios Mercurio. 1 Mercurio de Oro.\nCero rotación.\n\nLo que pasa cuando hay sistema.\n\n#Fantoche #Estrategia #DataDriven\n",
+      "copy": "12 aÃ±os. 6 Premios Mercurio. 1 Mercurio de Oro.\nCero rotaciÃ³n.\n\nLo que pasa cuando hay sistema.\n\n#Fantoche #Estrategia #DataDriven\n",
       "media": [
         {
           "kind": "IMAGE",
@@ -180,7 +138,7 @@
       "type": "reel",
       "scheduled_at": "2026-05-15T12:00:00-03:00",
       "scheduled_unix": 1778857200,
-      "copy": "Detrás del último lanzamiento Fantoche.\nEquipo, brainstorming, brief, ejecución.\n\nAsí trabajamos cada caso.\n\n#Reel #BTS #ConsumoMasivo #Fantoche\n",
+      "copy": "DetrÃ¡s del Ãºltimo lanzamiento Fantoche.\nEquipo, brainstorming, brief, ejecuciÃ³n.\n\nAsÃ­ trabajamos cada caso.\n\n#Reel #BTS #ConsumoMasivo #Fantoche\n",
       "media": [
         {
           "kind": "VIDEO",
@@ -196,7 +154,7 @@
       "type": "carousel",
       "scheduled_at": "2026-05-18T11:00:00-03:00",
       "scheduled_unix": 1779112800,
-      "copy": "CBSé.\n\"Encendé el sabor.\"\n\nDel mate de todos los días al mate exportado a Dubai. La marca cruzó fronteras y nosotros con ellos.\n\n10 años potenciando la cultura del mate moderno.\n\nLink en bio para ver el case completo.\n\n#CBSé #Yerba #Mate #BrandingArgentina #ConsumoMasivo\n",
+      "copy": "CBSÃ©.\n\"EncendÃ© el sabor.\"\n\nDel mate de todos los dÃ­as al mate exportado a Dubai. La marca cruzÃ³ fronteras y nosotros con ellos.\n\n10 aÃ±os potenciando la cultura del mate moderno.\n\nLink en bio para ver el case completo.\n\n#CBSÃ© #Yerba #Mate #BrandingArgentina #ConsumoMasivo\n",
       "media": [
         {
           "kind": "IMAGE",
@@ -238,7 +196,7 @@
       "type": "text",
       "scheduled_at": "2026-05-19T09:00:00-03:00",
       "scheduled_unix": 1779192000,
-      "copy": "La yerba mate cambió. Hoy compite con el café gourmet, con el matcha, con la kombucha. No con otras yerbas.\n\nCuando hace 6 años empezamos a trabajar CBSé, esa pelea recién arrancaba. Mango Picante, Chocolate Dubai, Edición Limitada. Cada SKU es una conversación cultural.\n\nLa lección: si tu marca de consumo no entiende que compite contra categorías nuevas, no compite contra nadie. Está sola.\n\n#CBSé #ConsumoMasivo #InnovacionDeProducto\n",
+      "copy": "La yerba mate cambiÃ³. Hoy compite con el cafÃ© gourmet, con el matcha, con la kombucha. No con otras yerbas.\n\nCuando hace 6 aÃ±os empezamos a trabajar CBSÃ©, esa pelea reciÃ©n arrancaba. Mango Picante, Chocolate Dubai, EdiciÃ³n Limitada. Cada SKU es una conversaciÃ³n cultural.\n\nLa lecciÃ³n: si tu marca de consumo no entiende que compite contra categorÃ­as nuevas, no compite contra nadie. EstÃ¡ sola.\n\n#CBSÃ© #ConsumoMasivo #InnovacionDeProducto\n",
       "media": []
     },
     {
@@ -248,7 +206,7 @@
       "type": "reel",
       "scheduled_at": "2026-05-19T17:00:00-03:00",
       "scheduled_unix": 1779220800,
-      "copy": "Pascua con Dubai.\nLa edición limitada que se agotó antes de la segunda tanda.\n\nLo que se está moviendo en la categoría yerba.\n\n#CBSé #Innovacion #EdicionLimitada #Reel\n",
+      "copy": "Pascua con Dubai.\nLa ediciÃ³n limitada que se agotÃ³ antes de la segunda tanda.\n\nLo que se estÃ¡ moviendo en la categorÃ­a yerba.\n\n#CBSÃ© #Innovacion #EdicionLimitada #Reel\n",
       "media": [
         {
           "kind": "VIDEO",
@@ -264,7 +222,7 @@
       "type": "carousel",
       "scheduled_at": "2026-05-20T10:00:00-03:00",
       "scheduled_unix": 1779282000,
-      "copy": "Nómade × CBSé — 6 años transformando la categoría yerba.\n\nDe yerba saborizada a marca cultural. De góndola argentina a góndola Dubai.\n\n#CBSé #AgenciaIntegral #Branding\n",
+      "copy": "NÃ³made Ã CBSÃ© â 6 aÃ±os transformando la categorÃ­a yerba.\n\nDe yerba saborizada a marca cultural. De gÃ³ndola argentina a gÃ³ndola Dubai.\n\n#CBSÃ© #AgenciaIntegral #Branding\n",
       "media": [
         {
           "kind": "IMAGE",
@@ -306,7 +264,7 @@
       "type": "photo",
       "scheduled_at": "2026-05-21T17:00:00-03:00",
       "scheduled_unix": 1779393600,
-      "copy": "\"La marca que no lanza no desaparece. Desaparece del feed.\"\n— Nómade\n\n#Estrategia #ConsumoMasivo #Marca\n",
+      "copy": "\"La marca que no lanza no desaparece. Desaparece del feed.\"\nâ NÃ³made\n\n#Estrategia #ConsumoMasivo #Marca\n",
       "media": [
         {
           "kind": "IMAGE",
@@ -322,7 +280,7 @@
       "type": "reel",
       "scheduled_at": "2026-05-22T12:00:00-03:00",
       "scheduled_unix": 1779462000,
-      "copy": "Pistacho.\nCategoría yerba dejó de competir contra yerba.\nHoy compite contra cualquier antojo.\n\n#Reel #CBSé #Innovacion\n",
+      "copy": "Pistacho.\nCategorÃ­a yerba dejÃ³ de competir contra yerba.\nHoy compite contra cualquier antojo.\n\n#Reel #CBSÃ© #Innovacion\n",
       "media": [
         {
           "kind": "VIDEO",
@@ -338,7 +296,7 @@
       "type": "carousel",
       "scheduled_at": "2026-05-25T11:00:00-03:00",
       "scheduled_unix": 1779717600,
-      "copy": "Krachitos. Hagamos Krach.\n\nDe snack invisible para la Gen Z a referente de estilo en góndola.\n\nRebrand total. Identidad bold, contenido nativo, hooks que paran el scroll.\nKo!nos · Nachos · Papas. Y para Halloween: MYSTERY HOT — 3 packs iguales por fuera, 3 snacks distintos por dentro.\n\nArgentina · Uruguay · Paraguay.\n\nLink en bio para ver el case completo.\n\n#Krachitos #HagamosKrach #GenZ #ConsumoMasivo\n",
+      "copy": "Krachitos. Hagamos Krach.\n\nDe snack invisible para la Gen Z a referente de estilo en gÃ³ndola.\n\nRebrand total. Identidad bold, contenido nativo, hooks que paran el scroll.\nKo!nos Â· Nachos Â· Papas. Y para Halloween: MYSTERY HOT â 3 packs iguales por fuera, 3 snacks distintos por dentro.\n\nArgentina Â· Uruguay Â· Paraguay.\n\nLink en bio para ver el case completo.\n\n#Krachitos #HagamosKrach #GenZ #ConsumoMasivo\n",
       "media": [
         {
           "kind": "IMAGE",
@@ -380,7 +338,7 @@
       "type": "text",
       "scheduled_at": "2026-05-26T09:00:00-03:00",
       "scheduled_unix": 1779796800,
-      "copy": "Las mejores marcas de consumo no son las que se ven en una pauta de Super Bowl. Son las que están en la mochila del recreo, en la pausa de la oficina, en la mesa del domingo.\n\nKrachitos vive ahí.\n\nNuestro trabajo: que se sienta igual de natural en góndola que en redes. Que la Gen Z la reconozca sin tener que explicarle qué es.\n\n#ConsumoMasivo #BrandingGenZ\n",
+      "copy": "Las mejores marcas de consumo no son las que se ven en una pauta de Super Bowl. Son las que estÃ¡n en la mochila del recreo, en la pausa de la oficina, en la mesa del domingo.\n\nKrachitos vive ahÃ­.\n\nNuestro trabajo: que se sienta igual de natural en gÃ³ndola que en redes. Que la Gen Z la reconozca sin tener que explicarle quÃ© es.\n\n#ConsumoMasivo #BrandingGenZ\n",
       "media": []
     },
     {
@@ -406,7 +364,7 @@
       "type": "carousel",
       "scheduled_at": "2026-05-27T10:00:00-03:00",
       "scheduled_unix": 1779886800,
-      "copy": "Nómade × Krachitos.\n\nReposicionamiento total para conectar con Gen Z. De marca invisible en góndola a referente de estilo. Identidad, contenido, performance y lanzamiento MYSTERY HOT.\n\n3 países. Resultado sostenido en distribución y engagement.\n\n#AgenciaIntegral #Rebrand #GenZ\n",
+      "copy": "NÃ³made Ã Krachitos.\n\nReposicionamiento total para conectar con Gen Z. De marca invisible en gÃ³ndola a referente de estilo. Identidad, contenido, performance y lanzamiento MYSTERY HOT.\n\n3 paÃ­ses. Resultado sostenido en distribuciÃ³n y engagement.\n\n#AgenciaIntegral #Rebrand #GenZ\n",
       "media": [
         {
           "kind": "IMAGE",
@@ -448,7 +406,7 @@
       "type": "photo",
       "scheduled_at": "2026-05-28T17:00:00-03:00",
       "scheduled_unix": 1779998400,
-      "copy": "MYSTERY HOT.\n3 packs iguales por fuera. 3 snacks distintos por dentro.\n\nHalloween Krachitos.\nMisterio, curiosidad y FOMO en góndola.\n\n#Krachitos #MysteryHot #Halloween\n",
+      "copy": "MYSTERY HOT.\n3 packs iguales por fuera. 3 snacks distintos por dentro.\n\nHalloween Krachitos.\nMisterio, curiosidad y FOMO en gÃ³ndola.\n\n#Krachitos #MysteryHot #Halloween\n",
       "media": [
         {
           "kind": "IMAGE",
@@ -464,7 +422,7 @@
       "type": "reel",
       "scheduled_at": "2026-05-29T12:00:00-03:00",
       "scheduled_unix": 1780066800,
-      "copy": "Detrás del rebrand de Krachitos.\nBrief, identidad, ejecución.\nCómo se le habla a la Gen Z sin sonar a adulto fingiendo.\n\n(Reel: recortar a 60s)\n\n#Reel #Krachitos #Rebrand\n",
+      "copy": "DetrÃ¡s del rebrand de Krachitos.\nBrief, identidad, ejecuciÃ³n.\nCÃ³mo se le habla a la Gen Z sin sonar a adulto fingiendo.\n\n(Reel: recortar a 60s)\n\n#Reel #Krachitos #Rebrand\n",
       "media": [
         {
           "kind": "VIDEO",
@@ -480,7 +438,7 @@
       "type": "carousel",
       "scheduled_at": "2026-06-01T11:00:00-03:00",
       "scheduled_unix": 1780322400,
-      "copy": "Nada Que Ver.\nRadio que se ve. Stream que no para.\n\nDesarrollada desde cero por Nómade. On air 24/7.\n\nLos reels más virales del último mes:\n🎙️ \"Si vas a mentir, al menos HACELO BIEN\"\n🤯 \"Plot Twist: el novio era su papá\"\n☀️ \"DatoToxi de Sol para arrancar la semana\"\n\n10.000 oyentes únicos por mes. 26.500+ horas escuchadas. 40+ activaciones en colegios.\n\nCuando una marca quiere conectar con jóvenes, NQV ya tiene la audiencia, los formatos probados y los datos.\n\n#NadaQueVer #NQV #IP #Stream #ContenidoPropio\n",
+      "copy": "Nada Que Ver.\nRadio que se ve. Stream que no para.\n\nDesarrollada desde cero por NÃ³made. On air 24/7.\n\nLos reels mÃ¡s virales del Ãºltimo mes:\nðï¸ \"Si vas a mentir, al menos HACELO BIEN\"\nð¤¯ \"Plot Twist: el novio era su papÃ¡\"\nâï¸ \"DatoToxi de Sol para arrancar la semana\"\n\n10.000 oyentes Ãºnicos por mes. 26.500+ horas escuchadas. 40+ activaciones en colegios.\n\nCuando una marca quiere conectar con jÃ³venes, NQV ya tiene la audiencia, los formatos probados y los datos.\n\n#NadaQueVer #NQV #IP #Stream #ContenidoPropio\n",
       "media": [
         {
           "kind": "IMAGE",
@@ -522,7 +480,7 @@
       "type": "text",
       "scheduled_at": "2026-06-02T09:00:00-03:00",
       "scheduled_unix": 1780401600,
-      "copy": "Llevo años escuchando agencias decir \"tenemos creatividad\". Hace un año decidimos demostrarlo distinto: armamos Nada Que Ver desde cero. Una radio + stream 24/7 sin cliente, sin brief, sin red de seguridad.\n\nEn 9 meses: 10.000 oyentes únicos por mes, 10.000+ seguidores, 40+ activaciones en colegios.\n\nNQV es un laboratorio real. Probamos formatos con nuestra audiencia, medimos en tiempo real, y cuando una marca quiere activar con jóvenes ya tenemos los datos para mostrarle qué funciona.\n\nLa pregunta para CMOs y agencias: si tu equipo no es capaz de crear sus propias IPs, ¿cómo va a crear marcas que rompan?\n\n#NadaQueVer #NQV #IP #ContenidoPropio #LiderazgoCreativo\n",
+      "copy": "Llevo aÃ±os escuchando agencias decir \"tenemos creatividad\". Hace un aÃ±o decidimos demostrarlo distinto: armamos Nada Que Ver desde cero. Una radio + stream 24/7 sin cliente, sin brief, sin red de seguridad.\n\nEn 9 meses: 10.000 oyentes Ãºnicos por mes, 10.000+ seguidores, 40+ activaciones en colegios.\n\nNQV es un laboratorio real. Probamos formatos con nuestra audiencia, medimos en tiempo real, y cuando una marca quiere activar con jÃ³venes ya tenemos los datos para mostrarle quÃ© funciona.\n\nLa pregunta para CMOs y agencias: si tu equipo no es capaz de crear sus propias IPs, Â¿cÃ³mo va a crear marcas que rompan?\n\n#NadaQueVer #NQV #IP #ContenidoPropio #LiderazgoCreativo\n",
       "media": []
     }
   ]
