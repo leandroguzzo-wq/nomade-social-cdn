@@ -3,7 +3,7 @@
   "cdn_base": "https://leandroguzzo-wq.github.io/nomade-social-cdn",
   "page_id": "353322825404012",
   "ig_business_id": "17841428424322788",
-  "total_pieces": 20,
+  "total_pieces": 21,
   "pieces": [
     {
       "id": "semana-1-fantoche/01-lun-1100-IG-carrusel-fantoche",
@@ -56,6 +56,48 @@
       "scheduled_unix": 1778587200,
       "copy": "La pregunta que le hago a cada CMO de consumo masivo: \"¿cuánto tarda tu organización en aprobar la última idea buena que tuvieron?\"\n\nLa cifra es el verdadero techo de tu marca.\n\nLlevo 12 años trabajando Fantoche. Lo que separa a las marcas que mueven el amperímetro de las que no, no es presupuesto: es velocidad de decisión.\n\nEn una categoría que se mueve por edición limitada, una idea que tarda 2 meses llega tarde.\n\nMercurio de Oro 2023. 6 Premios Mercurio con Fantoche.\n9 Premios Mercurio en total con Nómade. Cero rotación de cliente en una década.\n\n#ConsumoMasivo #MarketingArgentina #VelocidadDeDecision\n",
       "media": []
+    },
+    {
+      "id": "anuncio-web-2026-05-12/01-mar-1100-IG-carrusel-anuncio-web",
+      "cliente": "Nómade",
+      "channel": "IG",
+      "type": "carousel",
+      "scheduled_at": "2026-05-12T11:00:00-03:00",
+      "scheduled_unix": 1778594400,
+      "copy": "Estamos online.\n\nNueva web, mismo ADN. \n+10 años convirtiendo marcas en cultura. \nCases, IPs propias, branded y los 9 Mercurios \nque fuimos sumando con nuestros clientes.\n\nPasá, mirá, hablemos.\n\n→ nomadeagenciaintegral.com\n\nBuenos Aires + Madrid\n\n#nuevaweb #branding #publicidad #buenosaires #madrid\n",
+      "media": [
+        {
+          "kind": "IMAGE",
+          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/anuncio-web-2026-05-12/01-mar-1100-IG-carrusel-anuncio-web/slide-1-cover.jpg",
+          "filename": "slide-1-cover.jpg"
+        },
+        {
+          "kind": "VIDEO",
+          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/anuncio-web-2026-05-12/01-mar-1100-IG-carrusel-anuncio-web/slide-2-video.mp4",
+          "filename": "slide-2-video.mp4"
+        },
+        {
+          "kind": "IMAGE",
+          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/anuncio-web-2026-05-12/01-mar-1100-IG-carrusel-anuncio-web/slide-3-clientes.jpg",
+          "filename": "slide-3-clientes.jpg"
+        },
+        {
+          "kind": "IMAGE",
+          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/anuncio-web-2026-05-12/01-mar-1100-IG-carrusel-anuncio-web/slide-4-metodo.jpg",
+          "filename": "slide-4-metodo.jpg"
+        },
+        {
+          "kind": "IMAGE",
+          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/anuncio-web-2026-05-12/01-mar-1100-IG-carrusel-anuncio-web/slide-5-mercurios.jpg",
+          "filename": "slide-5-mercurios.jpg"
+        },
+        {
+          "kind": "IMAGE",
+          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/anuncio-web-2026-05-12/01-mar-1100-IG-carrusel-anuncio-web/slide-6-cierre.jpg",
+          "filename": "slide-6-cierre.jpg"
+        }
+      ],
+      "media_count": 6
     },
     {
       "id": "semana-1-fantoche/03-mar-1300-IG-foto-fantoche-mega-poder.jpg",
