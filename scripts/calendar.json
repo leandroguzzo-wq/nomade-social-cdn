@@ -1,293 +1,62 @@
 {
-  "generated_at": "2026-05-11T21:03:44.845680-03:00",
+  "generated_at": "2026-05-13T03:45:00-03:00",
+  "lote": "may2026-regen-4x5",
   "cdn_base": "https://leandroguzzo-wq.github.io/nomade-social-cdn",
   "page_id": "353322825404012",
   "ig_business_id": "17841428424322788",
-  "total_pieces": 20,
+  "total_pieces": 10,
+  "notas": "Lote regen 1080×1350 aprobado por Leandro 13 may 2026. Fantoche 14 may CANCELADA. 5 carruseles + 3 Reels solitarios.",
   "pieces": [
     {
-      "id": "semana-1-fantoche/01-lun-1100-IG-carrusel-fantoche",
-      "cliente": "Fantoche",
-      "channel": "IG",
-      "type": "carousel",
-      "scheduled_at": "2026-05-11T11:00:00-03:00",
-      "scheduled_unix": 1778508000,
-      "copy": "Fantoche.\n12 aÃ±os trabajando juntos. 6 Premios Mercurio. Mercurio de Oro 2023.\n\nLa marca de alfajores mÃ¡s querida de Argentina. Cada lanzamiento, un caso. Cada caso, un resultado.\n\nÂ¿CuÃ¡nto tarda tu marca en convertir una idea en gÃ³ndola?\n\nLink en bio para ver el case completo.\n\n#NÃ³made #Fantoche #Branding #Alfajores #ConsumoMasivo #CasoDeÃxito #MarketingArgentina\n",
-      "media": [
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/01-lun-1100-IG-carrusel-fantoche/slide-1-cover.jpg",
-          "filename": "slide-1-cover.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/01-lun-1100-IG-carrusel-fantoche/slide-2-mega-poder.jpg",
-          "filename": "slide-2-mega-poder.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/01-lun-1100-IG-carrusel-fantoche/slide-3-red-velvet.jpg",
-          "filename": "slide-3-red-velvet.jpg"
-        },
-        {
-          "kind": "VIDEO",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/01-lun-1100-IG-carrusel-fantoche/slide-4-spoiler-video.mp4",
-          "filename": "slide-4-spoiler-video.mp4"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/01-lun-1100-IG-carrusel-fantoche/slide-5-dato-6-mercurios.jpg",
-          "filename": "slide-5-dato-6-mercurios.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/01-lun-1100-IG-carrusel-fantoche/slide-6-cierre.jpg",
-          "filename": "slide-6-cierre.jpg"
-        }
-      ],
-      "media_count": 6
-    },
-    {
-      "id": "semana-1-fantoche/02-mar-0900-LinkedIn-Personal-velocidad-decision.txt",
-      "cliente": "Fantoche",
-      "channel": "LinkedIn-Personal",
-      "type": "text",
-      "scheduled_at": "2026-05-12T09:00:00-03:00",
-      "scheduled_unix": 1778587200,
-      "copy": "La pregunta que le hago a cada CMO de consumo masivo: \"Â¿cuÃ¡nto tarda tu organizaciÃ³n en aprobar la Ãºltima idea buena que tuvieron?\"\n\nLa cifra es el verdadero techo de tu marca.\n\nLlevo 12 aÃ±os trabajando Fantoche. Lo que separa a las marcas que mueven el amperÃ­metro de las que no, no es presupuesto: es velocidad de decisiÃ³n.\n\nEn una categorÃ­a que se mueve por ediciÃ³n limitada, una idea que tarda 2 meses llega tarde.\n\nMercurio de Oro 2023. 6 Premios Mercurio con Fantoche.\n9 Premios Mercurio en total con NÃ³made. Cero rotaciÃ³n de cliente en una dÃ©cada.\n\n#ConsumoMasivo #MarketingArgentina #VelocidadDeDecision\n",
-      "media": []
-    },
-    {
-      "id": "semana-1-fantoche/03-mar-1300-IG-foto-fantoche-mega-poder.jpg",
-      "cliente": "Fantoche",
-      "channel": "IG",
-      "type": "photo",
-      "scheduled_at": "2026-05-12T13:00:00-03:00",
-      "scheduled_unix": 1778601600,
-      "copy": "Fantoche Mega Poder.\nIdentidad, packaging, audiovisual, activaciones.\nUn solo equipo. Una sola historia.\n\nLink en bio.\n\n#Fantoche #Branding #Packaging #ConsumoMasivo\n",
-      "media": [
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/03-mar-1300-IG-foto-fantoche-mega-poder.jpg",
-          "filename": "03-mar-1300-IG-foto-fantoche-mega-poder.jpg"
-        }
-      ]
-    },
-    {
-      "id": "semana-1-fantoche/04-mie-1000-LinkedIn-Co-carrusel-fantoche",
-      "cliente": "Fantoche",
-      "channel": "LinkedIn-Co",
-      "type": "carousel",
-      "scheduled_at": "2026-05-13T10:00:00-03:00",
-      "scheduled_unix": 1778677200,
-      "copy": "NÃ³made Ã Fantoche â 12 aÃ±os.\n\nUn cliente. Seis premios Mercurio con Fantoche. Una dÃ©cada construyendo una de las marcas mÃ¡s queribles de Argentina.\n\nLo que aprendimos: la coherencia no se logra con campaÃ±as, se logra con sistema.\n\nVer el case completo â\n\n#AgenciaIntegral #ConsumoMasivo #Branding #Fantoche\n",
-      "media": [
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/04-mie-1000-LinkedIn-Co-carrusel-fantoche/slide-1-cover.jpg",
-          "filename": "slide-1-cover.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/04-mie-1000-LinkedIn-Co-carrusel-fantoche/slide-2-rey-alfajor.jpg",
-          "filename": "slide-2-rey-alfajor.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/04-mie-1000-LinkedIn-Co-carrusel-fantoche/slide-3-desafio-rey.jpg",
-          "filename": "slide-3-desafio-rey.jpg"
-        },
-        {
-          "kind": "VIDEO",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/04-mie-1000-LinkedIn-Co-carrusel-fantoche/slide-4-fiesta-triple-video.mp4",
-          "filename": "slide-4-fiesta-triple-video.mp4"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/04-mie-1000-LinkedIn-Co-carrusel-fantoche/slide-5-dato-6-mercurios.jpg",
-          "filename": "slide-5-dato-6-mercurios.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/04-mie-1000-LinkedIn-Co-carrusel-fantoche/slide-6-cierre.jpg",
-          "filename": "slide-6-cierre.jpg"
-        }
-      ],
-      "media_count": 6
-    },
-    {
-      "id": "semana-1-fantoche/05-jue-1700-IG-dato-6-mercurios.jpg",
-      "cliente": "Fantoche",
-      "channel": "IG",
-      "type": "photo",
-      "scheduled_at": "2026-05-14T17:00:00-03:00",
-      "scheduled_unix": 1778788800,
-      "copy": "12 aÃ±os. 6 Premios Mercurio. 1 Mercurio de Oro.\nCero rotaciÃ³n.\n\nLo que pasa cuando hay sistema.\n\n#Fantoche #Estrategia #DataDriven\n",
-      "media": [
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/05-jue-1700-IG-dato-6-mercurios.jpg",
-          "filename": "05-jue-1700-IG-dato-6-mercurios.jpg"
-        }
-      ]
-    },
-    {
-      "id": "semana-1-fantoche/06-vie-1200-IG-reel-fantoche-super-triple.mp4",
-      "cliente": "Fantoche",
-      "channel": "IG",
-      "type": "reel",
-      "scheduled_at": "2026-05-15T12:00:00-03:00",
-      "scheduled_unix": 1778857200,
-      "copy": "DetrÃ¡s del Ãºltimo lanzamiento Fantoche.\nEquipo, brainstorming, brief, ejecuciÃ³n.\n\nAsÃ­ trabajamos cada caso.\n\n#Reel #BTS #ConsumoMasivo #Fantoche\n",
-      "media": [
-        {
-          "kind": "VIDEO",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/06-vie-1200-IG-reel-fantoche-super-triple.mp4",
-          "filename": "06-vie-1200-IG-reel-fantoche-super-triple.mp4"
-        }
-      ]
-    },
-    {
       "id": "semana-2-cbse/01-lun-1100-IG-carrusel-cbse",
-      "cliente": "CBSe",
+      "cliente": "CBSé",
       "channel": "IG",
       "type": "carousel",
       "scheduled_at": "2026-05-18T11:00:00-03:00",
       "scheduled_unix": 1779112800,
-      "copy": "CBSÃ©.\n\"EncendÃ© el sabor.\"\n\nDel mate de todos los dÃ­as al mate exportado a Dubai. La marca cruzÃ³ fronteras y nosotros con ellos.\n\n10 aÃ±os potenciando la cultura del mate moderno.\n\nLink en bio para ver el case completo.\n\n#CBSÃ© #Yerba #Mate #BrandingArgentina #ConsumoMasivo\n",
+      "copy": "CBSé.\n\"Encendé el sabor.\"\n\nDel mate de todos los días al mate exportado a Dubai. La marca cruzó fronteras y nosotros con ellos.\n\n10 años potenciando la cultura del mate moderno.\n\nLink en bio para ver el case completo.\n\n#CBSé #Yerba #Mate #BrandingArgentina #ConsumoMasivo",
       "media": [
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/01-lun-1100-IG-carrusel-cbse/slide-1-cover.jpg",
-          "filename": "slide-1-cover.jpg"
-        },
-        {
-          "kind": "VIDEO",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/01-lun-1100-IG-carrusel-cbse/slide-2-paquetes-dubai-video.mp4",
-          "filename": "slide-2-paquetes-dubai-video.mp4"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/01-lun-1100-IG-carrusel-cbse/slide-3-chocolate-dubai.jpg",
-          "filename": "slide-3-chocolate-dubai.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/01-lun-1100-IG-carrusel-cbse/slide-4-mango-picante.jpg",
-          "filename": "slide-4-mango-picante.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/01-lun-1100-IG-carrusel-cbse/slide-5-dato-10-anos.jpg",
-          "filename": "slide-5-dato-10-anos.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/01-lun-1100-IG-carrusel-cbse/slide-6-cierre.jpg",
-          "filename": "slide-6-cierre.jpg"
-        }
-      ],
-      "media_count": 6
+        {"kind": "IMAGE", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/01-lun-1100-IG-carrusel-cbse/slide-1-cover.jpg"},
+        {"kind": "VIDEO", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/01-lun-1100-IG-carrusel-cbse/slide-2-paquetes-dubai-video.mp4"},
+        {"kind": "IMAGE", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/01-lun-1100-IG-carrusel-cbse/slide-3-chocolate-dubai.jpg"},
+        {"kind": "IMAGE", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/01-lun-1100-IG-carrusel-cbse/slide-4-mango-picante.jpg"},
+        {"kind": "IMAGE", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/01-lun-1100-IG-carrusel-cbse/slide-5-dato-10-anos.jpg"},
+        {"kind": "IMAGE", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/01-lun-1100-IG-carrusel-cbse/slide-6-cierre.jpg"}
+      ]
     },
     {
-      "id": "semana-2-cbse/02-mar-0900-LinkedIn-Personal-yerba-categoria.txt",
-      "cliente": "CBSe",
-      "channel": "LinkedIn-Personal",
-      "type": "text",
-      "scheduled_at": "2026-05-19T09:00:00-03:00",
-      "scheduled_unix": 1779192000,
-      "copy": "La yerba mate cambiÃ³. Hoy compite con el cafÃ© gourmet, con el matcha, con la kombucha. No con otras yerbas.\n\nCuando hace 6 aÃ±os empezamos a trabajar CBSÃ©, esa pelea reciÃ©n arrancaba. Mango Picante, Chocolate Dubai, EdiciÃ³n Limitada. Cada SKU es una conversaciÃ³n cultural.\n\nLa lecciÃ³n: si tu marca de consumo no entiende que compite contra categorÃ­as nuevas, no compite contra nadie. EstÃ¡ sola.\n\n#CBSÃ© #ConsumoMasivo #InnovacionDeProducto\n",
-      "media": []
-    },
-    {
-      "id": "semana-2-cbse/03-mar-1700-IG-reel-pascua-dubai.mp4",
-      "cliente": "CBSe",
+      "id": "semana-2-cbse/03-mar-1700-IG-reel-pascua-dubai",
+      "cliente": "CBSé",
       "channel": "IG",
       "type": "reel",
       "scheduled_at": "2026-05-19T17:00:00-03:00",
       "scheduled_unix": 1779220800,
-      "copy": "Pascua con Dubai.\nLa ediciÃ³n limitada que se agotÃ³ antes de la segunda tanda.\n\nLo que se estÃ¡ moviendo en la categorÃ­a yerba.\n\n#CBSÃ© #Innovacion #EdicionLimitada #Reel\n",
-      "media": [
-        {
-          "kind": "VIDEO",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/03-mar-1700-IG-reel-pascua-dubai.mp4",
-          "filename": "03-mar-1700-IG-reel-pascua-dubai.mp4"
-        }
-      ]
+      "copy": "Pascua con Dubai.\nLa edición limitada que se agotó antes de la segunda tanda.\n\nLo que se está moviendo en la categoría yerba.\n\n#CBSé #Innovacion #EdicionLimitada #Reel",
+      "media": [{"kind": "VIDEO", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/03-mar-1700-IG-reel-pascua-dubai.mp4"}]
     },
     {
-      "id": "semana-2-cbse/04-mie-1000-LinkedIn-Co-carrusel-cbse",
-      "cliente": "CBSe",
-      "channel": "LinkedIn-Co",
-      "type": "carousel",
-      "scheduled_at": "2026-05-20T10:00:00-03:00",
-      "scheduled_unix": 1779282000,
-      "copy": "NÃ³made Ã CBSÃ© â 6 aÃ±os transformando la categorÃ­a yerba.\n\nDe yerba saborizada a marca cultural. De gÃ³ndola argentina a gÃ³ndola Dubai.\n\n#CBSÃ© #AgenciaIntegral #Branding\n",
-      "media": [
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/04-mie-1000-LinkedIn-Co-carrusel-cbse/slide-1-cover.jpg",
-          "filename": "slide-1-cover.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/04-mie-1000-LinkedIn-Co-carrusel-cbse/slide-2-mango-picante.jpg",
-          "filename": "slide-2-mango-picante.jpg"
-        },
-        {
-          "kind": "VIDEO",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/04-mie-1000-LinkedIn-Co-carrusel-cbse/slide-3-throwback-2019-costa-video.mp4",
-          "filename": "slide-3-throwback-2019-costa-video.mp4"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/04-mie-1000-LinkedIn-Co-carrusel-cbse/slide-4-chocolate-dubai.jpg",
-          "filename": "slide-4-chocolate-dubai.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/04-mie-1000-LinkedIn-Co-carrusel-cbse/slide-5-dato-8-skus.jpg",
-          "filename": "slide-5-dato-8-skus.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/04-mie-1000-LinkedIn-Co-carrusel-cbse/slide-6-cierre.jpg",
-          "filename": "slide-6-cierre.jpg"
-        }
-      ],
-      "media_count": 6
-    },
-    {
-      "id": "semana-2-cbse/05-jue-1700-IG-quote-marca-no-lanza.jpg",
-      "cliente": "CBSe",
+      "id": "semana-2-cbse/21-jue-1700-IG-carrusel-yerbas-virales",
+      "cliente": "CBSé",
       "channel": "IG",
-      "type": "photo",
+      "type": "carousel",
       "scheduled_at": "2026-05-21T17:00:00-03:00",
       "scheduled_unix": 1779393600,
-      "copy": "\"La marca que no lanza no desaparece. Desaparece del feed.\"\nâ NÃ³made\n\n#Estrategia #ConsumoMasivo #Marca\n",
+      "copy": "CBSé · Yerbas Virales.\n6 años · yerba que cruza fronteras.\n\nDe Pascua con Dubai a Fin de Verano. Chocolate, Mango, Pistacho, Guaraná.\n\nUna marca que reinventó la categoría yerba con cada lanzamiento.\n\n#CBSé #Yerba #YerbasVirales #ConsumoMasivo",
       "media": [
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/05-jue-1700-IG-quote-marca-no-lanza.jpg",
-          "filename": "05-jue-1700-IG-quote-marca-no-lanza.jpg"
-        }
+        {"kind": "IMAGE", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/21-jue-1700-IG-carrusel-yerbas-virales/slide-1-portada.jpg"},
+        {"kind": "VIDEO", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/21-jue-1700-IG-carrusel-yerbas-virales/slide-2-yerbas-virales-video.mp4"},
+        {"kind": "VIDEO", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/21-jue-1700-IG-carrusel-yerbas-virales/slide-3-fin-verano-video.mp4"}
       ]
     },
     {
-      "id": "semana-2-cbse/06-vie-1200-IG-reel-pistacho.mp4",
-      "cliente": "CBSe",
+      "id": "semana-2-cbse/06-vie-1200-IG-reel-pistacho",
+      "cliente": "CBSé",
       "channel": "IG",
       "type": "reel",
       "scheduled_at": "2026-05-22T12:00:00-03:00",
       "scheduled_unix": 1779462000,
-      "copy": "Pistacho.\nCategorÃ­a yerba dejÃ³ de competir contra yerba.\nHoy compite contra cualquier antojo.\n\n#Reel #CBSÃ© #Innovacion\n",
-      "media": [
-        {
-          "kind": "VIDEO",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/06-vie-1200-IG-reel-pistacho.mp4",
-          "filename": "06-vie-1200-IG-reel-pistacho.mp4"
-        }
-      ]
+      "copy": "Pistacho.\nCategoría yerba dejó de competir contra yerba.\nHoy compite contra cualquier antojo.\n\n#Reel #CBSé #Innovacion",
+      "media": [{"kind": "VIDEO", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-2-cbse/06-vie-1200-IG-reel-pistacho.mp4"}]
     },
     {
       "id": "semana-3-krachitos/01-lun-1100-IG-carrusel-krachitos",
@@ -296,140 +65,48 @@
       "type": "carousel",
       "scheduled_at": "2026-05-25T11:00:00-03:00",
       "scheduled_unix": 1779717600,
-      "copy": "Krachitos. Hagamos Krach.\n\nDe snack invisible para la Gen Z a referente de estilo en gÃ³ndola.\n\nRebrand total. Identidad bold, contenido nativo, hooks que paran el scroll.\nKo!nos Â· Nachos Â· Papas. Y para Halloween: MYSTERY HOT â 3 packs iguales por fuera, 3 snacks distintos por dentro.\n\nArgentina Â· Uruguay Â· Paraguay.\n\nLink en bio para ver el case completo.\n\n#Krachitos #HagamosKrach #GenZ #ConsumoMasivo\n",
+      "copy": "Krachitos. Hagamos Krach.\n\nDe snack invisible para la Gen Z a referente de estilo en góndola.\n\nRebrand total. Identidad bold, contenido nativo, hooks que paran el scroll.\nKo!nos · Nachos · Papas.\n\nArgentina · Uruguay · Paraguay.\n\nLink en bio para ver el case completo.\n\n#Krachitos #HagamosKrach #GenZ #ConsumoMasivo",
       "media": [
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/01-lun-1100-IG-carrusel-krachitos/slide-1-cover.jpg",
-          "filename": "slide-1-cover.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/01-lun-1100-IG-carrusel-krachitos/slide-2-konos-vs-nachos.jpg",
-          "filename": "slide-2-konos-vs-nachos.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/01-lun-1100-IG-carrusel-krachitos/slide-3-adivina-sabor.jpg",
-          "filename": "slide-3-adivina-sabor.jpg"
-        },
-        {
-          "kind": "VIDEO",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/01-lun-1100-IG-carrusel-krachitos/slide-4-enojados-video.mp4",
-          "filename": "slide-4-enojados-video.mp4"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/01-lun-1100-IG-carrusel-krachitos/slide-5-dato-3-paises.jpg",
-          "filename": "slide-5-dato-3-paises.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/01-lun-1100-IG-carrusel-krachitos/slide-6-cierre.jpg",
-          "filename": "slide-6-cierre.jpg"
-        }
-      ],
-      "media_count": 6
+        {"kind": "IMAGE", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/01-lun-1100-IG-carrusel-krachitos/slide-1-cover.jpg"},
+        {"kind": "IMAGE", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/01-lun-1100-IG-carrusel-krachitos/slide-2-konos-vs-nachos.jpg"},
+        {"kind": "IMAGE", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/01-lun-1100-IG-carrusel-krachitos/slide-3-chicas-konos.jpg"},
+        {"kind": "VIDEO", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/01-lun-1100-IG-carrusel-krachitos/slide-4-enojados-video.mp4"},
+        {"kind": "IMAGE", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/01-lun-1100-IG-carrusel-krachitos/slide-5-dato-genz.jpg"},
+        {"kind": "IMAGE", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/01-lun-1100-IG-carrusel-krachitos/slide-6-cierre.jpg"}
+      ]
     },
     {
-      "id": "semana-3-krachitos/02-mar-0900-LinkedIn-Personal-mochila-recreo.txt",
-      "cliente": "Krachitos",
-      "channel": "LinkedIn-Personal",
-      "type": "text",
-      "scheduled_at": "2026-05-26T09:00:00-03:00",
-      "scheduled_unix": 1779796800,
-      "copy": "Las mejores marcas de consumo no son las que se ven en una pauta de Super Bowl. Son las que estÃ¡n en la mochila del recreo, en la pausa de la oficina, en la mesa del domingo.\n\nKrachitos vive ahÃ­.\n\nNuestro trabajo: que se sienta igual de natural en gÃ³ndola que en redes. Que la Gen Z la reconozca sin tener que explicarle quÃ© es.\n\n#ConsumoMasivo #BrandingGenZ\n",
-      "media": []
-    },
-    {
-      "id": "semana-3-krachitos/03-mar-1300-IG-reel-chica.mp4",
+      "id": "semana-3-krachitos/03-mar-1300-IG-reel-chica",
       "cliente": "Krachitos",
       "channel": "IG",
       "type": "reel",
       "scheduled_at": "2026-05-26T13:00:00-03:00",
       "scheduled_unix": 1779811200,
-      "copy": "Ko!nos. Nachos. Papas.\nKrachitos.\n\nHagamos Krach.\n\n#Krachitos #HagamosKrach #GenZ\n",
-      "media": [
-        {
-          "kind": "VIDEO",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/03-mar-1300-IG-reel-chica.mp4",
-          "filename": "03-mar-1300-IG-reel-chica.mp4"
-        }
-      ]
+      "copy": "Ko!nos. Nachos. Papas.\nKrachitos.\n\nHagamos Krach.\n\n#Krachitos #HagamosKrach #GenZ",
+      "media": [{"kind": "VIDEO", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/03-mar-1300-IG-reel-chica.mp4"}]
     },
     {
-      "id": "semana-3-krachitos/04-mie-1000-LinkedIn-Co-carrusel-krachitos",
-      "cliente": "Krachitos",
-      "channel": "LinkedIn-Co",
-      "type": "carousel",
-      "scheduled_at": "2026-05-27T10:00:00-03:00",
-      "scheduled_unix": 1779886800,
-      "copy": "NÃ³made Ã Krachitos.\n\nReposicionamiento total para conectar con Gen Z. De marca invisible en gÃ³ndola a referente de estilo. Identidad, contenido, performance y lanzamiento MYSTERY HOT.\n\n3 paÃ­ses. Resultado sostenido en distribuciÃ³n y engagement.\n\n#AgenciaIntegral #Rebrand #GenZ\n",
-      "media": [
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/04-mie-1000-LinkedIn-Co-carrusel-krachitos/slide-1-cover.jpg",
-          "filename": "slide-1-cover.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/04-mie-1000-LinkedIn-Co-carrusel-krachitos/slide-2-chicas-konos.jpg",
-          "filename": "slide-2-chicas-konos.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/04-mie-1000-LinkedIn-Co-carrusel-krachitos/slide-3-picadita.jpg",
-          "filename": "slide-3-picadita.jpg"
-        },
-        {
-          "kind": "VIDEO",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/04-mie-1000-LinkedIn-Co-carrusel-krachitos/slide-4-rebrand-video.mp4",
-          "filename": "slide-4-rebrand-video.mp4"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/04-mie-1000-LinkedIn-Co-carrusel-krachitos/slide-5-dato-genz.jpg",
-          "filename": "slide-5-dato-genz.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/04-mie-1000-LinkedIn-Co-carrusel-krachitos/slide-6-cierre.jpg",
-          "filename": "slide-6-cierre.jpg"
-        }
-      ],
-      "media_count": 6
-    },
-    {
-      "id": "semana-3-krachitos/05-jue-1700-IG-dato-mystery-hot.jpg",
+      "id": "semana-3-krachitos/28-jue-1700-IG-carrusel-mystery-hot",
       "cliente": "Krachitos",
       "channel": "IG",
-      "type": "photo",
+      "type": "carousel",
       "scheduled_at": "2026-05-28T17:00:00-03:00",
       "scheduled_unix": 1779998400,
-      "copy": "MYSTERY HOT.\n3 packs iguales por fuera. 3 snacks distintos por dentro.\n\nHalloween Krachitos.\nMisterio, curiosidad y FOMO en gÃ³ndola.\n\n#Krachitos #MysteryHot #Halloween\n",
+      "copy": "MYSTERY HOT — Krachitos.\nPrimera campaña 100% IA de la marca.\n\nEstrategia, casting y assets generados con inteligencia artificial. Conceptualización, ejecución y rollout en redes.\n\n#Krachitos #IA #CampañaEnRedes #Branding",
       "media": [
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/05-jue-1700-IG-dato-mystery-hot.jpg",
-          "filename": "05-jue-1700-IG-dato-mystery-hot.jpg"
-        }
+        {"kind": "IMAGE", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/28-jue-1700-IG-carrusel-mystery-hot/slide-1-portada-ia.jpg"},
+        {"kind": "VIDEO", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/28-jue-1700-IG-carrusel-mystery-hot/slide-2-enojados-video.mp4"}
       ]
     },
     {
-      "id": "semana-3-krachitos/06-vie-1200-IG-reel-krachitos.mp4",
+      "id": "semana-3-krachitos/06-vie-1200-IG-reel-krachitos",
       "cliente": "Krachitos",
       "channel": "IG",
       "type": "reel",
       "scheduled_at": "2026-05-29T12:00:00-03:00",
       "scheduled_unix": 1780066800,
-      "copy": "DetrÃ¡s del rebrand de Krachitos.\nBrief, identidad, ejecuciÃ³n.\nCÃ³mo se le habla a la Gen Z sin sonar a adulto fingiendo.\n\n(Reel: recortar a 60s)\n\n#Reel #Krachitos #Rebrand\n",
-      "media": [
-        {
-          "kind": "VIDEO",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/06-vie-1200-IG-reel-krachitos.mp4",
-          "filename": "06-vie-1200-IG-reel-krachitos.mp4"
-        }
-      ]
+      "copy": "Detrás del rebrand de Krachitos.\nBrief, identidad, ejecución.\nCómo se le habla a la Gen Z sin sonar a adulto fingiendo.\n\n#Reel #Krachitos #Rebrand",
+      "media": [{"kind": "VIDEO", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-3-krachitos/06-vie-1200-IG-reel-krachitos.mp4"}]
     },
     {
       "id": "semana-4-nqv/01-lun-1100-IG-carrusel-nqv",
@@ -438,49 +115,26 @@
       "type": "carousel",
       "scheduled_at": "2026-06-01T11:00:00-03:00",
       "scheduled_unix": 1780322400,
-      "copy": "Nada Que Ver.\nRadio que se ve. Stream que no para.\n\nDesarrollada desde cero por NÃ³made. On air 24/7.\n\nLos reels mÃ¡s virales del Ãºltimo mes:\nðï¸ \"Si vas a mentir, al menos HACELO BIEN\"\nð¤¯ \"Plot Twist: el novio era su papÃ¡\"\nâï¸ \"DatoToxi de Sol para arrancar la semana\"\n\n10.000 oyentes Ãºnicos por mes. 26.500+ horas escuchadas. 40+ activaciones en colegios.\n\nCuando una marca quiere conectar con jÃ³venes, NQV ya tiene la audiencia, los formatos probados y los datos.\n\n#NadaQueVer #NQV #IP #Stream #ContenidoPropio\n",
+      "copy": "Nada Que Ver.\nRadio que se ve. Stream que no para.\n\nDesarrollada desde cero por Nómade. On air 24/7.\n\n10.000 oyentes únicos por mes. 26.500+ horas escuchadas. 40+ activaciones en colegios.\n\nLos reels más virales del último mes — y la colaboración Nómade × Pescado Raúl × Fantoche.\n\n#NadaQueVer #NQV #IP #Stream #ContenidoPropio",
       "media": [
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-4-nqv/01-lun-1100-IG-carrusel-nqv/slide-1-cover.jpg",
-          "filename": "slide-1-cover.jpg"
-        },
-        {
-          "kind": "VIDEO",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-4-nqv/01-lun-1100-IG-carrusel-nqv/slide-2-mentir-bien-VIDEO.mp4",
-          "filename": "slide-2-mentir-bien-VIDEO.mp4"
-        },
-        {
-          "kind": "VIDEO",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-4-nqv/01-lun-1100-IG-carrusel-nqv/slide-3-plot-twist-VIDEO.mp4",
-          "filename": "slide-3-plot-twist-VIDEO.mp4"
-        },
-        {
-          "kind": "VIDEO",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-4-nqv/01-lun-1100-IG-carrusel-nqv/slide-4-datotoxi-sol-VIDEO.mp4",
-          "filename": "slide-4-datotoxi-sol-VIDEO.mp4"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-4-nqv/01-lun-1100-IG-carrusel-nqv/slide-5-dato-10k.jpg",
-          "filename": "slide-5-dato-10k.jpg"
-        },
-        {
-          "kind": "IMAGE",
-          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-4-nqv/01-lun-1100-IG-carrusel-nqv/slide-6-cierre.jpg",
-          "filename": "slide-6-cierre.jpg"
-        }
-      ],
-      "media_count": 6
+        {"kind": "IMAGE", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-4-nqv/01-lun-1100-IG-carrusel-nqv/slide-1-cover.jpg"},
+        {"kind": "VIDEO", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-4-nqv/01-lun-1100-IG-carrusel-nqv/slide-2-mentir-bien-VIDEO.mp4"},
+        {"kind": "VIDEO", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-4-nqv/01-lun-1100-IG-carrusel-nqv/slide-3-plot-twist-VIDEO.mp4"},
+        {"kind": "VIDEO", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-4-nqv/01-lun-1100-IG-carrusel-nqv/slide-4-datotoxi-sol-VIDEO.mp4"},
+        {"kind": "IMAGE", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-4-nqv/01-lun-1100-IG-carrusel-nqv/slide-5-dato-10k.jpg"},
+        {"kind": "VIDEO", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-4-nqv/01-lun-1100-IG-carrusel-nqv/slide-6-cierre-video.mp4"},
+        {"kind": "VIDEO", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-4-nqv/01-lun-1100-IG-carrusel-nqv/slide-7-pescadoraul-collab-video.mp4"},
+        {"kind": "IMAGE", "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-4-nqv/01-lun-1100-IG-carrusel-nqv/slide-8-cierre-img.jpg"}
+      ]
     },
     {
-      "id": "semana-4-nqv/02-mar-0900-LinkedIn-Personal-NQV-IPs-propias.txt",
+      "id": "semana-4-nqv/02-mar-0900-LinkedIn-Personal-NQV-IPs-propias",
       "cliente": "NQV",
       "channel": "LinkedIn-Personal",
       "type": "text",
       "scheduled_at": "2026-06-02T09:00:00-03:00",
       "scheduled_unix": 1780401600,
-      "copy": "Llevo aÃ±os escuchando agencias decir \"tenemos creatividad\". Hace un aÃ±o decidimos demostrarlo distinto: armamos Nada Que Ver desde cero. Una radio + stream 24/7 sin cliente, sin brief, sin red de seguridad.\n\nEn 9 meses: 10.000 oyentes Ãºnicos por mes, 10.000+ seguidores, 40+ activaciones en colegios.\n\nNQV es un laboratorio real. Probamos formatos con nuestra audiencia, medimos en tiempo real, y cuando una marca quiere activar con jÃ³venes ya tenemos los datos para mostrarle quÃ© funciona.\n\nLa pregunta para CMOs y agencias: si tu equipo no es capaz de crear sus propias IPs, Â¿cÃ³mo va a crear marcas que rompan?\n\n#NadaQueVer #NQV #IP #ContenidoPropio #LiderazgoCreativo\n",
+      "copy": "Llevo años escuchando agencias decir \"tenemos creatividad\". Hace un año decidimos demostrarlo distinto: armamos Nada Que Ver desde cero. Una radio + stream 24/7 sin cliente, sin brief, sin red de seguridad.\n\nEn 9 meses: 10.000 oyentes únicos por mes, 10.000+ seguidores, 40+ activaciones en colegios.\n\nNQV es un laboratorio real. Probamos formatos con nuestra audiencia, medimos en tiempo real, y cuando una marca quiere activar con jóvenes ya tenemos los datos para mostrarle qué funciona.\n\nLa pregunta para CMOs y agencias: si tu equipo no es capaz de crear sus propias IPs, ¿cómo va a crear marcas que rompan?\n\n#NadaQueVer #NQV #IP #ContenidoPropio #LiderazgoCreativo",
       "media": []
     }
   ]
