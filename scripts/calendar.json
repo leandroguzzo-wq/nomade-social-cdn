@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-05-13T04:30:00-03:00",
+  "generated_at": "2026-05-13T06:05:00-03:00",
   "lote": "may2026-regen-4x5",
   "cdn_base": "https://leandroguzzo-wq.github.io/nomade-social-cdn",
   "page_id": "353322825404012",
   "ig_business_id": "17841428424322788",
-  "total_pieces": 10,
-  "notas": "Lote regen 1080×1350 aprobado por Leandro 13 may 2026. Fantoche 14 may CANCELADA. 5 carruseles + 3 Reels solitarios.",
+  "total_pieces": 11,
+  "notas": "Lote regen 1080×1350 aprobado por Leandro 13 may 2026. Fantoche 14 may CANCELADA. 5 carruseles + 3 Reels solitarios. · Reel Fantoche Super Triple Vie 15 may 12:00 APROBADO por Leandro 06:05.",
   "pieces": [
+    {
+      "id": "semana-1-fantoche/06-vie-1200-IG-reel-fantoche-super-triple",
+      "cliente": "Fantoche",
+      "channel": "IG",
+      "type": "reel",
+      "scheduled_at": "2026-05-15T12:00:00-03:00",
+      "scheduled_unix": 1778857200,
+      "copy": "Detrás del último lanzamiento Fantoche.\nEquipo, brainstorming, brief, ejecución.\n\nAsí trabajamos cada caso.\n\n#Reel #BTS #ConsumoMasivo #Fantoche",
+      "media": [
+        {
+          "kind": "VIDEO",
+          "url": "https://leandroguzzo-wq.github.io/nomade-social-cdn/semana-1-fantoche/06-vie-1200-IG-reel-fantoche-super-triple.mp4"
+        }
+      ]
+    },
     {
       "id": "semana-2-cbse/01-lun-1100-IG-carrusel-cbse",
       "cliente": "CBSé",
